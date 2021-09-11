@@ -16,7 +16,7 @@ class Bobo(Papa):
         print(Bobo.cool)
         return self.name + " " + input
    
-# test = Xformation()
+# test = Papa()
 
 nouns = ["Winnie", "Dumbo", "Igeli"]
 
